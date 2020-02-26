@@ -72,3 +72,4 @@ Daarnaast heb ik de site opgemaakt. Over alle elementen kun je hoveren dan wordt
 Ik heb geprobeerd om een soort uitschuif menu te maken waarin dan de films te zien zijn maar dit wil gewoon niet lukken. Het is wel gelukt om op het icoon te klikken en dat er op dat moment iets verschijnt maar verder is het niet gelukt. Dus dit zou ik nog kunnen verbeteren.
 
 Dit is het uiteindelijke resultaat geworden!
+<img width="806" alt="Schermafbeelding 2020-02-26 om 14 09 00" src="https://user-images.githubusercontent.com/59088506/75350785-5d84fa00-58a7-11ea-868c-82da29184276.png">
