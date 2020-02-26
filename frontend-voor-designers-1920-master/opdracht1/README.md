@@ -37,9 +37,17 @@ Voor wat complexere micro-interacties waar verschillende states elkaar moeten op
 
 -----------------------------------------
 
-Ik heb gekozen voor de case:
+Ik heb gekozen voor de eerste case:
 - In een verzameling films wil ik een aantal leuke films kunnen bewaren om ze later te bekijken.
 
-Ik ben begonnen met het maken van een schets (Zie afbeelding 1.). Hier is mijn idee op te zien. Alle vierkantjes zijn de films en die kun je als favoriet maken.
+Ik ben begonnen met het maken van een schets (Zie afbeelding 1.). 
 
 <img width="934" alt="Schermafbeelding 2020-02-26 om 14 33 24" src="https://user-images.githubusercontent.com/59088506/75349417-0a11ac80-58a5-11ea-9978-a3bb5923eb81.png">
+
+Werking:
+Alle vierkantjes zijn de films. Rechts bovenaan zie je een hartje, dit is de plaats waar waar de films heen gaan wanneer je de film 'vind-ik-leukt'.
+
+Ik ben eerst aan de slag gegaan met het verzamelen van foto's die de films dan moeten voorstellen. Daarna heb ik een navigatie gemaakt en de favorieten button. Ik heb de website een naam gegeven en de films ook. 
+
+Hieronder zie je het resultaat van het einde van les 1:
+
