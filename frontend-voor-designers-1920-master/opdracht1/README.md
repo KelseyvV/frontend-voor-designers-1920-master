@@ -60,3 +60,15 @@ LES 2
 Deze les heb ik mij bezig gehouden met het positioneren van alle films en de buttons ten opzichte van de films. De buttons zijn goed gepositioneerd nu alleen de titels nog niet maar daar ga ik later mee verder.
 
 Daarnaast heb ik mij bezig gehouden met javascript. Door te klikken op een hartje op een film moest deze van kleur veranderen zodat de gebruiker weet dat hij is 'gefavoriet'. Deze les is dat gelukt bij 1 van de 6 hartjes.
+
+<img width="548" alt="Schermafbeelding 2020-02-13 om 16 30 30" src="https://user-images.githubusercontent.com/59088506/75350287-85279280-58a6-11ea-8ccd-27725fb130dc.png">
+
+
+LES 3
+Voor les 3 moet de opdracht af zijn dus ik ben thuis aan de slag gegaan omdat het nog niet af was. Ik ben begonnen met de uitwerking van alle hartjes. Alle hartjes zijn nu werkend. Het is de bedoeling dat wanneer je op een hartje klikt het hartje rechts bovenaan dan optelt. Hij telt hoevaak er geklikt is op een hartje. Dit is me nu gelukt! 
+
+Daarnaast heb ik de site opgemaakt. Over alle elementen kun je hoveren dan wordt het element vergroot. Elementen die moeten opvallen hebben een felle kleur roze en de andere licht roze. Ook hebben de elementen shaduwen gekregen.
+
+Ik heb geprobeerd om een soort uitschuif menu te maken waarin dan de films te zien zijn maar dit wil gewoon niet lukken. Het is wel gelukt om op het icoon te klikken en dat er op dat moment iets verschijnt maar verder is het niet gelukt. Dus dit zou ik nog kunnen verbeteren.
+
+Dit is het uiteindelijke resultaat geworden!
