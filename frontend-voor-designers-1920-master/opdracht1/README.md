@@ -41,3 +41,5 @@ Ik heb gekozen voor de case:
 - In een verzameling films wil ik een aantal leuke films kunnen bewaren om ze later te bekijken.
 
 Ik ben begonnen met het maken van een schets (Zie afbeelding 1.). Hier is mijn idee op te zien. Alle vierkantjes zijn de films en die kun je als favoriet maken.
+
+frontend-voor-designers-1920-master/frontend-voor-designers-1920-master/opdracht1/img/Schermafbeelding 2020-02-26 om 14.09.00.png
