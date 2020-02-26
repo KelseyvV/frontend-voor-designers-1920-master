@@ -42,4 +42,4 @@ Ik heb gekozen voor de case:
 
 Ik ben begonnen met het maken van een schets (Zie afbeelding 1.). Hier is mijn idee op te zien. Alle vierkantjes zijn de films en die kun je als favoriet maken.
 
-frontend-voor-designers-1920-master/opdracht1/img/Schermafbeelding 2020-02-26 om 14.09.00.png
+<img width="934" alt="Schermafbeelding 2020-02-26 om 14 33 24" src="https://user-images.githubusercontent.com/59088506/75349417-0a11ac80-58a5-11ea-9978-a3bb5923eb81.png">
