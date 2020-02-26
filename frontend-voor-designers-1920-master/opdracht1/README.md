@@ -37,6 +37,8 @@ Voor wat complexere micro-interacties waar verschillende states elkaar moeten op
 
 -----------------------------------------
 
+LES 1
+
 Ik heb gekozen voor de eerste case:
 - In een verzameling films wil ik een aantal leuke films kunnen bewaren om ze later te bekijken.
 
@@ -50,4 +52,11 @@ Alle vierkantjes zijn de films. Rechts bovenaan zie je een hartje, dit is de pla
 Ik ben eerst aan de slag gegaan met het verzamelen van foto's die de films dan moeten voorstellen. Daarna heb ik een navigatie gemaakt en de favorieten button. Ik heb de website een naam gegeven en de films ook. 
 
 Hieronder zie je het resultaat van het einde van les 1:
+<img width="512" alt="Schermafbeelding 2020-02-06 om 17 16 09" src="https://user-images.githubusercontent.com/59088506/75349982-fadf2e80-58a5-11ea-900c-0c2c7c95a4c5.png">
 
+
+
+LES 2
+Deze les heb ik mij bezig gehouden met het positioneren van alle films en de buttons ten opzichte van de films. De buttons zijn goed gepositioneerd nu alleen de titels nog niet maar daar ga ik later mee verder.
+
+Daarnaast heb ik mij bezig gehouden met javascript. Door te klikken op een hartje op een film moest deze van kleur veranderen zodat de gebruiker weet dat hij is 'gefavoriet'. Deze les is dat gelukt bij 1 van de 6 hartjes.
